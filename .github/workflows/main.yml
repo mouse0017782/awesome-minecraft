@@ -14,4 +14,4 @@ jobs:
       - name: checkout repository
         uses: actions/checkout@v4
       - name: ping lol
-        run: ping github.com
+        run: ping -c 1 github.com
