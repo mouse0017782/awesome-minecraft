@@ -1,7 +1,7 @@
 # awesome-minecraft
 A list of awesome things related to Minecraft 
 
-## You can contribute _[here](https://github.com/mouse0017782/awesome-minecraft/compare)_ with your own fork of the repo.
+### You can contribute **[here](https://github.com/mouse0017782/awesome-minecraft/compare)** with your own fork of the repo.
 
 ---
 # Modding
